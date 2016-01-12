@@ -1,9 +1,19 @@
 body {
      background-color: #bbbbbb;
 }
+
 img {
 	width:100px;
 	height:100px;
+}
+
+div {
+	height: 300px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: #308014;
+	float: top;
 }
 
 
