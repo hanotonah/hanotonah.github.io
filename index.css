@@ -9,11 +9,12 @@ img {
 
 div {
 	height: 100px;
-	width: 100px;
+	width: 200px;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: #8b8b8b;
 	float: top;
+	clear: bottom;
 }
 
 
