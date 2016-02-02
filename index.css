@@ -1,22 +1,35 @@
-body {
-     background-color: #bbbbbb;
+.title {
+    text-align:center;
+    background-color:#737373;
+    height:50px;
+    padding:5px;    
 }
 
-img {
-	width:100px;
-	height:100px;
+
+.tabs ul {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:500px;
+    width:120px;
+    float:left;
+    padding:5px;
 }
 
-div {
-	height: 100px;
-	width: 1300px;
-	border: 2px solid black;
-	border-radius: 5px;
-	background-color: #8b8b8b;
-	float: top;
-	
+
+.text {
+    width: 600px;
+    float:left;
+    padding:10px;
 }
 
+
+.footer {
+    background-color: #737373;
+    height:25px;
+    text-align:center;
+    clear:both;
+    
+}
 
 
 	
