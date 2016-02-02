@@ -28,6 +28,10 @@ body {
     padding:10px;
 }
 
+img {
+	padding:5px;
+}
+
 
 .footer {
     background-color: #737373;
