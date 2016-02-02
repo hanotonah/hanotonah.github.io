@@ -1,39 +1,17 @@
 body {
-	background-color:#e6e6e6;
+	background-color:#696969;
 }
 
-.title {
-    text-align:center;
-    background-color:#737373;
-    height:50px;
-    padding:5px;    
+h1 {
+	text-align:center;
 }
 
-
-.tabs ul {
-    line-height:30px;
-    background-color:#eeeeee;
-    height:500px;
-    width:120px;
-    float:left;
-    padding:5px;
+p {
+	text-align:center;
 }
 
-
-.text {
-    width: 600px;
-    float:left;
-    padding:10px;
+ul li {
+	text-align:center;
 }
-
-
-.footer {
-    background-color: #737373;
-    height:25px;
-    text-align:center;
-    clear:both;
-    
-}
-
 
 	
